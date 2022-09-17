@@ -28,7 +28,7 @@
 
 Ответ: true
 
-[Маленький многоугольник. Не влезает ни один объект](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/7Dyjds5hmAA.jpeg)
+[Маленький многоугольник. Не влезает ни один объект](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/FSad6vY3xq8.jpeg)
 
 Ответ: false
 
