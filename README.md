@@ -20,7 +20,7 @@
 
 Ответ: true
 
-[Достаточно маленький мнгоугольник. Единственный объект помещается внутрь](https://github.com/magliy/intelligent_placer/blob/develop/Tests/yes%5C19.jpg)
+[Достаточно маленький мнгоугольник. Единственный объект помещается внутрь](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/YuRdUHiVX4.jpeg)
 
 Ответ: true
 
@@ -28,15 +28,15 @@
 
 Ответ: true
 
-[Маленький многоугольник. Не влезает ни один объект](https://github.com/magliy/intelligent_placer/blob/develop/Tests/no%5C6.jpg)
+[Маленький многоугольник. Не влезает ни один объект](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/7Dyjds5hmAA.jpeg)
 
 Ответ: false
 
-[На первый взгляд кажется, что объекты должны поместиться, но это не так](https://github.com/magliy/intelligent_placer/blob/develop/Tests/no%5C12.jpg)
+[На первый взгляд кажется, что объекты должны поместиться, но это не так](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/MCveEMRm7q8.jpeg)
 
 Ответ: false
 
-[В отдельных конфигурациях объекты влезают в многоульник, но не все вместе](https://github.com/magliy/intelligent_placer/blob/develop/Tests/no%5C21.jpg)
+[В отдельных конфигурациях объекты влезают в многоульник, но не все вместе](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/G4T7Ge8sxMk.jpeg)
 
 Ответ: false
 
