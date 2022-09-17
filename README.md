@@ -16,7 +16,7 @@
 [Исходные данные](https://github.com/magliy/intelligent_placer/tree/develop/Objects/Objects)
 
 ## Тесты
-[Многоугольник занимает все простанство листа. Представлены все 10 объектов. Все объекты помещаются в многоугольник](https://github.com/magliy/intelligent_placer/blob/develop/Tests/yes%5C1.jpg)
+[Многоугольник занимает все простанство листа. Представлены все 10 объектов. Все объекты помещаются в многоугольник](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/J49ls7rKli0.jpeg)
 
 Ответ: true
 
