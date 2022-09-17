@@ -20,7 +20,7 @@
 
 Ответ: true
 
-[Достаточно маленький мнгоугольник. Единственный объект помещается внутрь](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/YuRdUHiVX4.jpeg)
+[Достаточно маленький мнгоугольник. Единственный объект помещается внутрь](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/J49ls7rKli0.jpeg)
 
 Ответ: true
 
