@@ -24,7 +24,7 @@
 
 Ответ: true
 
-[Многоугольник имеет максимальное количество углов. Объект помещается только в однои положении с очень маленькой вариабельностью угла](https://github.com/magliy/intelligent_placer/blob/develop/Tests/yes%5C8.jpg)
+[Многоугольник имеет максимальное количество углов. Объект помещается только в однои положении с очень маленькой вариабельностью угла](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/7Dyjds5hmAA.jpeg)
 
 Ответ: true
 
