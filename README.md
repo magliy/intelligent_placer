@@ -13,30 +13,30 @@
 * Объектив камеры должен располагаться перпендикулярно нормали к фотографируемой поверхности. Расстояние до предметов не более 50 сантиметров. Объекты хорошо освещены и имеют четкие границы, фотография не смазанная и без засветов. Фотографии вертикально ориентированы, соотношение сторон 9:16. Фотографии цветные, не допускается цветовая коррекция: наложение фильтров, изменение яркости, контрастности, цветов и тд.
 
 ## Изображения
-[Исходные данные](https://github.com/magliy/intelligent_placer/tree/develop/Objects/Objects)
+[Исходные данные](https://github.com/magliy/intelligent_placer/tree/develop/Objects)
 
 ## Тесты
-[Многоугольник занимает все простанство листа. Представлены все 10 объектов. Все объекты помещаются в многоугольник](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/J49ls7rKli0.jpeg)
+[Многоугольник занимает все простанство листа. Представлены все 10 объектов. Все объекты помещаются в многоугольник](https://github.com/magliy/intelligent_placer/blob/develop/Tests/test1.JPG)
 
 Ответ: true
 
-[Достаточно маленький мнгоугольник. Единственный объект помещается внутрь](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/YuRdUHiVX4.jpeg)
+[Достаточно маленький мнгоугольник. Единственный объект помещается внутрь](https://github.com/magliy/intelligent_placer/blob/develop/Tests/test2.JPG)
 
 Ответ: true
 
-[Многоугольник имеет максимальное количество углов. Объект помещается только в однои положении с очень маленькой вариабельностью угла](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/7Dyjds5hmAA.jpeg)
+[Многоугольник имеет максимальное количество углов. Объект помещается только в однои положении с очень маленькой вариабельностью угла](https://github.com/magliy/intelligent_placer/blob/develop/Tests/test3.JPG)
 
 Ответ: true
 
-[Маленький многоугольник. Не влезает ни один объект](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/FSad6vY3xq8.jpeg)
+[Маленький многоугольник. Не влезает ни один объект](https://github.com/magliy/intelligent_placer/blob/develop/Tests/test4.JPG)
 
 Ответ: false
 
-[На первый взгляд кажется, что объекты должны поместиться, но это не так](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/MCveEMRm7q8.jpeg)
+[На первый взгляд кажется, что объекты должны поместиться, но это не так](https://github.com/magliy/intelligent_placer/blob/develop/Tests/test5.JPG)
 
 Ответ: false
 
-[В отдельных конфигурациях объекты влезают в многоульник, но не все вместе](https://github.com/magliy/intelligent_placer/blob/develop/Tests/Tests/G4T7Ge8sxMk.jpeg)
+[В отдельных конфигурациях объекты влезают в многоульник, но не все вместе](https://github.com/magliy/intelligent_placer/blob/develop/Tests/test6.JPG)
 
 Ответ: false
 
